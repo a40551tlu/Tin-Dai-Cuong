@@ -9,4 +9,4 @@ while (i <= n):
     mauSo = mauSo * i;
     ketqua = ketqua + tuSo/mauSo;
     i += 1;
-print(int(ketqua));
+print(ketqua);
